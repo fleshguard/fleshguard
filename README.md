@@ -1,3 +1,4 @@
+##  🦋 | Secondary account for my config files 
 ![Alt Text](https://media1.tenor.com/m/PVuSQX0VFccAAAAC/serial-experiments-lain-lain.gif) 
-##  💾 | Secondary account for my config files 
-### 💬 | Discord: Fentaura#0000
+
+![Discord](https://img.shields.io/discord/1235772840054099970?style=for-the-badge&logo=discord&label=contact&color=%235865F2)
